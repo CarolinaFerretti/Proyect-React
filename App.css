@@ -1,0 +1,112 @@
+body{
+  background-color: rgb(10, 5, 10);
+}
+.Navbar{
+  background-color: rgba(34, 2, 30, 0.623);
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic; 
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 15px;
+  list-style: none;
+  box-shadow: 5px 10px 27px white;
+
+}
+
+/*Imagenes*/
+.Imagen1{
+ width: 20%;
+ padding: 95px;
+ margin-top: 50px;
+ margin-left: 15px;
+ box-shadow: 1px 1px 5px white;
+
+}
+.Imagen2{
+  width: 23%;
+  padding: 55px;
+  
+  
+
+}
+.Imagen9{
+  width: 30%;
+  padding: 15px;
+ 
+}
+.Imagen4{
+  width: 20%;
+  padding: 45px;
+}
+.Imagen5{
+  width: 20%;
+  padding: 45px;
+}
+.Imagen6{
+  width: 20%;
+  padding: 45px;
+  
+}
+.Imagen7{
+  width: 30%;
+  padding: 15px;
+  box-shadow: 1px 1px 5px white;
+}
+.Imagen8{
+  width: 30%;
+  padding: 15px;
+  box-shadow: 1px 1px 5px white;
+ 
+}
+.Imagen10{
+  width: 30%;
+  padding: 15px;
+ 
+}
+.Imagen11{
+  width: 30%;
+  padding: 15px;
+ 
+}
+.Imagen12{
+  width: 30%;
+  padding: 15px;
+  
+ 
+}
+.Imagen13{
+  width: 20%;
+  padding: 45px;
+  box-shadow: 1px 1px 5px white;
+}
+.Imagen14{
+  width: 30%;
+  padding: 15px;
+  box-shadow: 1px 1px 5px white;
+ 
+}
+.Imagen15{
+  width: 30%;
+  padding: 15px;
+
+ 
+}
+.Imagen16{
+  width: 30%;
+  padding: 15px;
+ 
+}
+/*BoToNeS*/
+.Butone {
+  background-color: black;
+  color: gray;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-radius: 15px;
+  padding: 5px;
+  box-shadow: 5px 5px 5px rgb(10, 10, 10);
+
+}
+
+
+ 
